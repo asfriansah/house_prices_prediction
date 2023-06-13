@@ -1,12 +1,15 @@
 # house_prices_prediction
 
 Overview
+
 The number of property companies makes the competition in buying and selling a house even tighter. To be able to compete in determining the price of a house, the company asks the services of a vendor to find out what factors affect the ups and downs of the price of a house. And from these factors it is hoped that the output will be a more accurate prediction of the price of a house.
 
 Acknowledgments
+
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
 
 Dataset
+
 This dataset is obtained from kaggle 
 
 Data description:
